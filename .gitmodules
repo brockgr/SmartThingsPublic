@@ -1,0 +1,3 @@
+[submodule "devicetypes/bravia.src"]
+	path = devicetypes/bravia.src
+	url = git@gist.github.com:43133bf9011febf6437a662eb5998ec8.git
